@@ -3,7 +3,7 @@ friends = ["apple", "banana", "cherry",4,2,"nanapatekar"]
 friends.append("damodar")
 
 friends.reverse("damodar")
-friends.insert("damodar",4)
+friends.insert("damodar",4      )
 friends.pop("damodar")
 friends.remove("damodar")
 
