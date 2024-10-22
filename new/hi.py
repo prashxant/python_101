@@ -1,5 +1,0 @@
-
-a = ()
-
-
-print(type(a))
